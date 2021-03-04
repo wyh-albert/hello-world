@@ -1,2 +1,2 @@
 # hello-world
-github创建的一个学习工程
+github创建的第一个工程，用于学习gitHub命令使用。
