@@ -1,3 +1,7 @@
 这是一个test文件
 this is comment
 this is other comment
+111111111111111
+ 执行存储时，添加备注，方便查找，只有git stash 也要可以的，但查找时不方便识别。
+这个dev分支，修改test文件，使用git stash存储
+在main分支中修改test文件，同时使用git stash保存
